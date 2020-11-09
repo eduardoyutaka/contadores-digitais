@@ -1,5 +1,5 @@
 {
-  "name": "ContadoresDigital",
+  "name": "contadores_digital",
   "private": true,
   "dependencies": {
     "@rails/actioncable": "^6.0.0",
