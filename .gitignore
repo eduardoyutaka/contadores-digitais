@@ -28,6 +28,8 @@
 !/storage/.keep
 
 /public/assets
+/public/csv
+/public/uploads
 .byebug_history
 
 # Ignore master key for decrypting credentials and more.
